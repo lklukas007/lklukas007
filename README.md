@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lklukas007
+- 👋 Hi, I’m Lucas de Oliveira Prado
 - 👀 I’m interested in learn and improve every day!
 - 🌱 I’m currently learning HTML, CSS, JS
 - 📫 How to reach me: 
