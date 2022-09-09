@@ -1,6 +1,6 @@
 ## Hello word! -  Eu sou o Lucas de Oliveira Prado
 
-#### - 💪 Atualmente trabalho como implantador de sistema, porém estou estudando para me tornar um desenvolvedor.
+#### - 💪 Atualmente, trabalhando como DBA na Precisão Sistemas.
 
 ##
 
