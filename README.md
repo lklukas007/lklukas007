@@ -1,6 +1,6 @@
 ## Hello word! -  Eu sou o Lucas de Oliveira Prado
 
-#### - 💪 Atualmente, trabalhando Analista de Banco de Dados na Precisão Sistemas.
+#### - 💪 Atualmente, trabalhando como Analista de Banco de Dados na Precisão Sistemas.
 
 ##
 
