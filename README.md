@@ -12,6 +12,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lklukas007&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lklukas007&layout=compact)](https://github.com/lklukas007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lklukas007=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
