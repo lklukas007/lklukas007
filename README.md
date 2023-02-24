@@ -8,6 +8,11 @@
 
 ##
 
+- C# - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+
+##
+
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lklukas007&show_icons=true&theme=github_dark)
