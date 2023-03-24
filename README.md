@@ -24,8 +24,8 @@
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lklukas007&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lklukas007&show_icons=true&theme=github_dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lklukas007&layout=compact)](https://github.com/lklukas007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lklukas007&layout=compact)](https://github.com/lklukas007/)
 
 </div>
