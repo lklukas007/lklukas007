@@ -1,7 +1,5 @@
 ## Hello word! -  Eu sou o Lucas de Oliveira Prado
 
-#### - 💪 Atualmente, trabalho como Analista de Banco de Dados 🎲 na Precisão Sistemas.
-
 ## SOCIAL:
 <a href="https://www.linkedin.com/in/lucas-de-oliveira-prado-7bb688121/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="[https://www.linkedin.com/in/lucas-de-oliveira-prado-7bb688121/](https://stackoverflow.com/users/20301417/lucas-de-oliveira-prado)" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
